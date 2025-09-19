@@ -1,0 +1,11 @@
+# Ignore large dataset and model files
+"ML DataSet.csv"
+data.pkl
+best_knn_model.pkl
+*.pkl
+*.csv
+
+# Python caches
+__pycache__/
+.vscode/
+.idea/
